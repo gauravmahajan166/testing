@@ -1,0 +1,1 @@
+#!/bin/bash                                                                                                                                                                                                                                                    "my name is ${array[3]}"
